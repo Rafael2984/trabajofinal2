@@ -1,0 +1,39 @@
+
+
+//guitarras-acusticas-bajos//
+
+
+#parrafo {
+    padding: 10px;
+        background-color: lavender;
+}
+
+#tarjetas {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px;
+    
+    }
+
+    .tituloaccesorios {
+        background-color: #ffffff;
+        padding: 40px 10px 0px 50px;
+        margin: top;
+    }
+
+    #bannermarcas {
+
+        padding: 5px 0px;
+        
+    }
+
+
+
+    @media screen and (min-width: 768px) {
+        body {
+                background-color: #000000;
+          }
+    }
+    

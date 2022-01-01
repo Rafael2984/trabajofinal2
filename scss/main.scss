@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+        
+        a :hover{
+
+            transform: translate(10px, 20px);
+            }
+      
+    
+
+                
+      
+    
+
+
+
+#quienessomos  {
+    background-color: rgb(252, 247, 247);
+    border: solid 5px rgba(192, 192, 192, 0.473);
+    
+    padding: 60px;
+    
+    
+        
+    
+        
+}
+
+
+
+
+    #nuestroartista {
+        background-color: #dc3545;
+        padding: 1px;
+        margin: 1px;
+
+        iframe {
+            background-color: #dc3545;
+            padding: 10px;
+        }
+    }
+    
+
+
+    @media screen and (max-width: 360px)
+
+    {
+        
+
+        #marcas{
+            box-sizing: content-box;
+        }
+        
+        #quienessomos  { 
+            width: 100%;
+            
+
+        }
+    }
